@@ -1,0 +1,6 @@
+{
+  "name": "UniFind",
+  "description": "A modern university campus Lost & Found management system with local Room persistence, Material 3 design, categories, push alerts simulation, and user roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
