@@ -9,7 +9,7 @@ UniFind features a signature Material 3 collegiate design (Blue + White + Soft G
 ## 🚀 Key App Modules & Flows
 
 1. **Splash Screen / Intro**: Animated campus logo with a session control check to automatically forward users depending on their session history.
-2. **Student Login & Registration**: Modern input validations, secure password entry, and double instant-developer bypass buttons.
+2. **Student Login & Registration**: Modern input validations, secure password entry, and double instant-developer bypass buttons (**Student Alex** / **Dean Admin**) to allow testing as different roles instantly.
 3. **Interactive Home Dashboard**: Real-time keywords searching, separate filter tags for item states (🔴 Lost / 🟢 Found), horizontal category pills (Electronics, Keys, Wallets, Books, Documents, Other), and pull-to-refresh.
 4. **Report Item Form**: High-res Unsplash photo suggestion chips, coordinate-based GPS inputs, drop-down category menus, and contact card validations.
 5. **Item Details Screen**: Large fluid cover banners, quick call/SMS triggers, anti-spam reporting forms, and single-click administrative resolution buttons.
